@@ -1,0 +1,3 @@
+*/**/__pycache__
+lstm_hvac/data/*
+lstm_hvac/logs/models/*

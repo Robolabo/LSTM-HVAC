@@ -1,0 +1,16 @@
+{
+	"chk_file" : "mspm2_checkpoint",
+	"device" : "cuda:0",
+	"epochs" : 100, 
+	"samples" : 100000, 
+	"batch_size" : 100,
+	"timesteps" : 96,
+	"horizon" : 96,
+	"output_size": 1,
+	"predictor" : "MSPM2",
+	"learning_rate" : 1e-3,
+	"spl" : [0.8, 0.2, 0], 
+	"resume" : 0,
+	"ann_units" : [30, 30]
+}
+
