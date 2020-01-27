@@ -1,3 +1,8 @@
 */**/__pycache__
 lstm_hvac/data/*
 lstm_hvac/logs/models/*
+
+!lstm_hvac/data/.gitkeep 
+!lstm_hvac/logs/.gitkeep 
+!lstm_hvac/logs/models/.gitkeep 
+
